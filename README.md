@@ -11,19 +11,20 @@ The following questions were answered:
 
 Three datasets were made availbale. Link to datasets: ([source](https://ourworldindata.org/internet))
 💾 The data
--- internet
+
+-- internet:
 "Entity" - The name of the country, region, or group.
 "Code" - Unique id for the country (null for other entities).
 "Year" - Year from 1990 to 2019.
 "Internet_usage" - The share of the entity's population who have used the internet in the last three months.
 
--- people
+-- people:
 "Entity" - The name of the country, region, or group.
 "Code" - Unique id for the country (null for other entities).
 "Year" - Year from 1990 to 2020.
 "Users" - The number of people who have used the internet in the last three months for that country, region, or group.
 
--- broadband
+-- broadband:
 "Entity" - The name of the country, region, or group.
 "Code" - Unique id for the country (null for other entities).
 "Year" - Year from 1998 to 2020.
