@@ -32,4 +32,4 @@ Three datasets were made availbale. Link to datasets: ([source](https://ourworld
 Acknowledgments: Max Roser, Hannah Ritchie, and Esteban Ortiz-Ospina (2015) - "Internet." OurWorldInData.org.
 
 
-Summary of Findings
+## Summary of Findings
