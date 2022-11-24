@@ -34,3 +34,4 @@ Acknowledgments: Max Roser, Hannah Ritchie, and Esteban Ortiz-Ospina (2015) - "I
 
 
 ## Summary of Findings
+The top five countries with the most internet usage were Bahrain, Kuwait, Liechtenstein, Qatar.
