@@ -12,19 +12,19 @@ The following questions were answered:
 Three datasets were made availbale. Link to datasets: ([source](https://ourworldindata.org/internet))
 💾 The data
 
--- internet:
+- internet:
 "Entity" - The name of the country, region, or group.
 "Code" - Unique id for the country (null for other entities).
 "Year" - Year from 1990 to 2019.
 "Internet_usage" - The share of the entity's population who have used the internet in the last three months.
 
--- people:
+- people:
 "Entity" - The name of the country, region, or group.
 "Code" - Unique id for the country (null for other entities).
 "Year" - Year from 1990 to 2020.
 "Users" - The number of people who have used the internet in the last three months for that country, region, or group.
 
--- broadband:
+- broadband:
 "Entity" - The name of the country, region, or group.
 "Code" - Unique id for the country (null for other entities).
 "Year" - Year from 1998 to 2020.
@@ -34,4 +34,6 @@ Acknowledgments: Max Roser, Hannah Ritchie, and Esteban Ortiz-Ospina (2015) - "I
 
 
 ## Summary of Findings
-The top five countries with the most internet usage were Bahrain, Kuwait, Liechtenstein, Qatar.
+- The top five countries with the most internet usage were Bahrain, Qatar, kuwait, United Arab Emirates and Denmark.
+- Of the five top countries, United Arab Emirates had the most number of person with internet access.
+- 
