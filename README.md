@@ -35,5 +35,7 @@ Acknowledgments: Max Roser, Hannah Ritchie, and Esteban Ortiz-Ospina (2015) - "I
 
 ## Summary of Findings
 - The top five countries with the most internet usage were Bahrain, Qatar, kuwait, United Arab Emirates and Denmark.
-- Of the five top countries, United Arab Emirates had the most number of person with internet access.
-- 
+- Of the five top countries, United Arab Emirates had the most number of persons with internet access in 2019.
+- Internet usage in all the regions has increased steadily over the years. The exception however, is in the African regions, while there has been steady increase as well, it is not at the same rate as other regions. Africa Eastern and Southern regions have the lowest level of increase in the Africa regions.
+- China is the country with the most number of internet users in 2019.
+- The correlation coefficient between internet usage and broadband subscriptions is 0.56, which is an indication of a moderate positive relationship. One would think that when internet usage increases, then there would be more broadband subscriptions.
